@@ -15,7 +15,8 @@ It can be used as a clock by data processing.
 
 
 
-https://user-images.githubusercontent.com/125584777/219883819-5e69e6e3-4d5c-4e2b-a72f-5d7afe506db1.mp4
+https://user-images.githubusercontent.com/125584777/219883944-3f4703b3-a21f-4aca-b73f-844f78304963.mp4
+
 
 
 
