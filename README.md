@@ -7,7 +7,8 @@ It can be used as a clock by data processing.
 ## Circuit of the project
 
 
-![](../../../7seg.jpg)
+![7seg](https://user-images.githubusercontent.com/125584777/219883806-3d583245-3f4e-461a-b9e0-210613b1297f.jpg)
+
 
 ## Samples of result
 
